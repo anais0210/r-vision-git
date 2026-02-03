@@ -11,7 +11,10 @@ btnPlus.addEventListener('click', function() {
     countDisplay.textContent = compteur;
 });
 
-// TODO: ajouter la fonction pour le bouton moins
+btnMoins.addEventListener('click', function() {
+    compteur = compteur - 1;
+    countDisplay.textContent = compteur;
+});
 
 btnReset.addEventListener('click', function() {
     compteur = 0;
