@@ -14,6 +14,9 @@ btnPlus.addEventListener("click", function () {
 btnMoins.addEventListener("click", function () {
   compteur = compteur - 1;
   countDisplay.textContent = compteur;
+btnMoins.addEventListener('click', function() {
+    compteur = comrteur - 1;
+    countDisplay.textContent = compteur;
 });
 
 btnReset.addEventListener("click", function () {
