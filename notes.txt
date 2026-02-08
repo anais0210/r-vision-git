@@ -1,4 +1,0 @@
-TODO perso:
-- finir le bouton moins
-- demander à Marie pour les couleurs
-- password wifi: 12345678
