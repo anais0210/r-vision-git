@@ -1,4 +1,4 @@
-// Compteur de clics
+// Compteur de clics - Application principale
 let compteur = 0;
 
 const countDisplay = document.getElementById('count');
@@ -7,13 +7,16 @@ const btnMoins = document.getElementById('btn-moins');
 const btnReset = document.getElementById('btn-reset');
 const btnTheme = document.getElementById('btn-theme');
 
+console.log('App chargée');
+
 btnPlus.addEventListener('click', function() {
     compteur = compteur + 1;
     countDisplay.textContent = compteur;
+    console.log('compteur: ' + compteur);
 });
 
 btnMoins.addEventListener('click', function() {
-    compteur = compteur - 1;
+    compteur = comrteur - 1;
     countDisplay.textContent = compteur;
 });
 
