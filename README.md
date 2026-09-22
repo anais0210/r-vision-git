@@ -1,6 +1,6 @@
 # Compteur de Clics
 
-Un projet simple pour aprendre JavaScript.
+Un projet simple pour apprendre JavaScript.
 
 ## Description
 
@@ -10,12 +10,13 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 
 - HTML5
 - CSS3
-- JavaScript ES5
+- JavaScript ES6
 
 ## Installation
 
 1. Cloner le repo
 2. Ouvrir index.html dans votre navigateur
+3. Continuer à faire d'autres choses
 
 ## Fonctionnalités
 
@@ -50,4 +51,4 @@ Pour contribuer à ce projet :
 
 ## Auteur
 
-Projet créé en 2019.
+Projet créé en 2026.
