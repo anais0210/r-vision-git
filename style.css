@@ -3,10 +3,20 @@ body {
     text-align: center;
     padding: 50px;
     background-color: #f0f0f0;
+    transition: background-color 0.3s;
+}
+
+body.dark-mode {
+    background-color: #222;
+    color: #fff;
 }
 
 h1 {
     color: #333;
+}
+
+body.dark-mode h1 {
+    color: #fff;
 }
 
 .compteur {
@@ -42,6 +52,12 @@ button:hover {
 #btn-reset {
     background-color: #6c757d;
     color: white;
+}
+
+#btn-theme {
+    background-color: #333;
+    color: white;
+    margin-top: 20px;
 }
 
 footer {
