@@ -13,7 +13,7 @@ btnPlus.addEventListener('click', function() {
 });
 
 btnMoins.addEventListener('click', function() {
-    compteur = comrteur - 1;
+    compteur = compteur - 1;
     countDisplay.textContent = compteur;
 });
 
