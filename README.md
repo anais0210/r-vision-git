@@ -47,6 +47,11 @@ Pour contribuer à ce projet :
    ```
 6. Ouvrir une Pull Request depuis GitHub vers le repo original
 
+- Bouton + pour augmenter
+- Bouton - pour diminuer
+- Bouton reset
+- Mode sombre (dark mode)
+
 ## Auteur
 
 Projet créé en 2019.
