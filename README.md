@@ -47,6 +47,8 @@ Pour contribuer à ce projet :
    ```
 6. Ouvrir une Pull Request depuis GitHub vers le repo original
 
+- Mode sombre (dark mode)
+
 ## Auteur
 
 Projet créé en 2019.
