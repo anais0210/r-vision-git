@@ -26,3 +26,8 @@ btnReset.addEventListener("click", function () {
 btnTheme.addEventListener("click", function () {
   document.body.classList.toggle("dark-mode");
 });
+
+// Toggle dark mode
+btnTheme.addEventListener("click", function () {
+  document.body.classList.toggle("dark-mode");
+});
