@@ -1,6 +1,6 @@
 # Compteur de Clics
 
-Un projet simple pour aprendre JavaScript.
+Un projet simple pour apprendre JavaScript.
 
 ## Description
 
@@ -10,18 +10,40 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 
 - HTML5
 - CSS3
-- JavaScript ES5
+- JavaScript
 
 ## Installation
 
 1. Cloner le repo
+
+   ```bash
+   git clone https://github.com/Sammyhein/r-vision-git.git
+   ```
+
+   ```bash
+   cd r-vision-git
+   ```
+
 2. Ouvrir index.html dans votre navigateur
+
+   MACOS :
+
+   ```bash
+   open index.html
+   ```
+
+   PC :
+
+   ```bash
+   start index.html
+   ```
 
 ## Fonctionnalités
 
 - Bouton + pour augmenter le compteur
 - Bouton - pour diminuer le compteur
 - Bouton reset pour remettre à zéro
+- Mode sombre (dark mode)
 
 ## Contribuer
 
@@ -49,4 +71,4 @@ Pour contribuer à ce projet :
 
 ## Auteur
 
-Projet créé en 2019.
+Projet créé en 2026.
